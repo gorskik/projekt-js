@@ -1,3 +1,3 @@
-console.log('Kamil');
+let firstName = 'Kamil' ;
 
-console.log('Gorski');
+let lastName = 'Gorski' ;
